@@ -4,8 +4,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": "20.x",
-    "npm": "10.x"
+    "node": "24.x"
   },
   "scripts": {
     "dev": "vite",
@@ -13,11 +12,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.4.1",
-    "vite": "^6.3.5"
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.0"
   }
 }
